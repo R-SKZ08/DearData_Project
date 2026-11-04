@@ -56,8 +56,6 @@ The visualisation should allow viewers to explore my k-pop consumption differs f
 
 This repository will contain the files and resources developed throughout the project.
 
-README.md - Project overview
-
-KPOP DATA COLLECTION.csv - Collected observations
-
-KPOP VISUALISATION - Processing sketch
+* README.md - Project overview
+* KPOP DATA COLLECTION.csv - Collected observations
+* KPOP VISUALISATION - Processing sketch
