@@ -28,7 +28,7 @@ I am recording the following:
 * Duration: How long was the individual content 
 * Time spent: How long did I spend on that content
 * Repeated?: Did I repeat it or did I only watch/engage with it once?
-* Engagement: Whether I listened, liked, comment, shared or left multiple actions
+* Engagement: Whether I listened, liked, comment, shared or left multiple actions.
 
 My aim is to collect at least 100 observations by Part 2 of the Project.
 
@@ -42,8 +42,20 @@ The development will include:
 * developing the beginning of a visualiser that communicated my patterns and habits in my data
 * using objects and methods to structure my code
 * experimenting with different visual elements, e.g. shaped, colours, sizes, positioning
-* documenting my progress and making regular commits to GitHub
+* documenting my progress and making regular commits to GitHub.
 
 The visualisation should allow viewers to explore my k-pop consumption differs from different platforms, contents types and times of day.
 
 **Tools used**
+
+* Microsoft Excel: Recording, organising and analysing my observations
+* Processing: Developing the data visualisation
+* GitHub: Storing project files and tracking changes throughout my devlopment.
+
+**Repository contents**
+
+This repository will contain the files and resources developed throughout the project.
+
+README.md - Project overview
+KPOP DATA COLLECTION.csv - Collected observations
+KPOP VISUALISATION - Processing sketch
