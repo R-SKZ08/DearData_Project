@@ -49,7 +49,7 @@ The visualisation should allow viewers to explore my k-pop consumption differs f
 **Tools used**
 
 * Microsoft Excel: Recording, organising and analysing my observations
-* Processing: Developing the data visualisation
+* Processing: Start developing the data visualisation
 * GitHub: Storing project files and tracking changes throughout my devlopment.
 
 **Repository contents**
@@ -58,4 +58,3 @@ This repository will contain the files and resources developed throughout the pr
 
 * README.md - Project overview
 * KPOP DATA COLLECTION.csv - Collected observations
-* KPOP VISUALISATION - Processing sketch
