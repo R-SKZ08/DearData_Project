@@ -1,19 +1,19 @@
 ﻿Date,Time,Time of day,Platform,Content type,Artist,Artist Category,Duration(mins),Time spent,Repeated?,Engagement
 Monday 12th Oct,08:02,Morning,Spotify,Music/song,Stray kids,Boy group,3,33,yes,Listened
 Monday 12th Oct,08:45,Morning,Tiktok,Fan edit,Multiple artists,Multiple artists,2,12,No,Multiple actions
-Monday 12th Oct,09:52,Morning,Youtube,Vlog,Ateez,Boy group,22,22,No,None
-Monday 12th Oct,11:10,Morning,Spotify,Music/Song,Multiple artists,Multiple artists,3,27,Yes,Listened
+Monday 12th Oct,09:52,Afternoon,Youtube,Vlog,Ateez,Boy group,22,22,No,None
+Monday 12th Oct,11:10,Afternoon,Spotify,Music/Song,Multiple artists,Multiple artists,3,27,Yes,Listened
 Monday 12th Oct,12:00,Afternoon,Tiktok,News/update,Mutiple artists,General K-Pop,4,4,No,Shared
-Monday 12th Oct,12:15,Afternoon,Weverse,Livestream,Seventeen,Boy group,47,20,No,Liked
-Monday 12th Oct,14:24,Afternoon,Instagram,Idol post/photo,Xikers,Boy group,0,3,Yes,Multiple actions
-Tuesday 13th Oct,16:53,Evening,Spotify,Music/Song,Multiple artists,Multiple artists,3,47,Yes,Listened
-Tuesday 13th Oct,17:46,Evening,Tiktok,Dance challenge,Itzy,Girl group,1,1,No,Liked
-Tuesday 13th Oct,18:00,Late night,Tiktok,Fan edit,seventeen,Boy group,2,12,Yes,Multiple actions
-Tuesday 13th Oct,18:23,Late night,Instagram,Idol post/photo,Twice,Girl group,0,1,No,Liked
-Tuesday 13th Oct,19:21,Late night,Tiktok,Fan edit,Stray kids,Boy group,2,24,Yes,Multiple actions
-Tuesday 13th Oct,09:12,Morning,Spotify,Music/Song,Stray kids,Boy group,3,72,Yes,Listened
-Tuesday 13th Oct,10:03,Morning,Tiktok,Fan edit,Seventeen,Boy group,2,3,Yes,Liked
-Tuesday 13th Oct,10:43,Morning,Instagram,Short-form video,Ateez,Boy group,1,5,Yes,Shared
+Monday 12th Oct,12:15,Evening,Weverse,Livestream,Seventeen,Boy group,47,20,No,Liked
+Monday 12th Oct,14:24,Evening,Instagram,Idol post/photo,Xikers,Boy group,0,3,Yes,Multiple actions
+Tuesday 13th Oct,16:53,Morning,Spotify,Music/Song,Multiple artists,Multiple artists,3,47,Yes,Listened
+Tuesday 13th Oct,17:46,Morning,Tiktok,Dance challenge,Itzy,Girl group,1,1,No,Liked
+Tuesday 13th Oct,18:00,Afternoon,Tiktok,Fan edit,seventeen,Boy group,2,12,Yes,Multiple actions
+Tuesday 13th Oct,18:23,Afternoon,Instagram,Idol post/photo,Twice,Girl group,0,1,No,Liked
+Tuesday 13th Oct,19:21,Afternoon,Tiktok,Fan edit,Stray kids,Boy group,2,24,Yes,Multiple actions
+Tuesday 13th Oct,09:12,Evening,Spotify,Music/Song,Stray kids,Boy group,3,72,Yes,Listened
+Tuesday 13th Oct,10:03,Evening,Tiktok,Fan edit,Seventeen,Boy group,2,3,Yes,Liked
+Tuesday 13th Oct,10:43,Evening,Instagram,Short-form video,Ateez,Boy group,1,5,Yes,Shared
 Wednesday 14th Oct,13:32,Afternoon,Instagram,Idol post/photo,Ateez,Boy group,0,2,No,Multiple actions
 Wednesday 14th Oct,13:50,Afternoon,Weverse,Livestream,P1Harmony,Boy group,23,10,No,Liked
 Wednesday 14th Oct,14:22,Afternoon,Tiktok,Fan edit,Ateez,Boy group,5,5,No,Liked
@@ -22,76 +22,76 @@ Wednesday 14th Oct,15:17,Evening,Instagram,Idol post/photo,Stray kids,Boy group,
 Wednesday 14th Oct,16:26,Evening,Tiktok,Short-form video,Stray kids,Boy group,15,12,No,Shared
 Wednesday 14th Oct,16:39,Evening,Instagram,Idol post/photo,Twice,Girl group,0,2,Yes,Shared
 Wednesday 14th Oct,16:45,Late night,Spotify,Music/Song,Multiple artists,Multiple artists,3,10,No,Listened
-Thursday 15th Oct,17:11,Late night,Spotify,Music/Song,Stray kids,Boy group,3,21,Yes,Listened
-Thursday 15th Oct,17:43,Late night,Tiktok,Fan edit,Xikers,Boy group,2,6,Yes,Multiple actions
-Thursday 15th Oct,05:47,Morning,,,,,,,,
-Thursday 15th Oct,,Morning,,,,,,,,
-Thursday 15th Oct,,Morning,,,,,,,,
-Thursday 15th Oct,,Morning,,,,,,,,
-Thursday 15th Oct,,Afternoon,,,,,,,,
-Friday 16th Oct,,Afternoon,,,,,,,,
-Friday 16th Oct,,Afternoon,,,,,,,,
-Friday 16th Oct,,Afternoon,,,,,,,,
-Friday 16th Oct,,Evening,,,,,,,,
+Thursday 15th Oct,17:11,Morning,Spotify,Music/Song,Stray kids,Boy group,3,21,Yes,Listened
+Thursday 15th Oct,17:43,Morning,Tiktok,Fan edit,Xikers,Boy group,2,6,Yes,Multiple actions
+Thursday 15th Oct,05:47,Afternoon,Tiktok,,,,,,,
+Thursday 15th Oct,,Evening,Youtube,,,,,,,
+Thursday 15th Oct,,Evening,Youtube,,,,,,,
+Thursday 15th Oct,,Evening,Instagram,,,,,,,
+Thursday 15th Oct,,Evening,Tiktok,,,,,,,
+Friday 16th Oct,,Afternoon,Spotify,,,,,,,
+Friday 16th Oct,,Afternoon,Tiktok,,,,,,,
+Friday 16th Oct,,Afternoon,Spotify,,,,,,,
+Friday 16th Oct,,Evening,Instagram,,,,,,,
 Friday 16th Oct,,Evening,,,,,,,,
 Friday 16th Oct,,Evening,,,,,,,,
 Friday 16th Oct,,Late night,,,,,,,,
-Saturday 17th Oct,,,,,,,,,,
-Saturday 17th Oct,,,,,,,,,,
-Saturday 17th Oct,,,,,,,,,,
-Saturday 17th Oct,,,,,,,,,,
-Saturday 17th Oct,,,,,,,,,,
-Saturday 17th Oct,,,,,,,,,,
-Sunday 18th Oct,,,,,,,,,,
-Sunday 18th Oct,,,,,,,,,,
-Sunday 18th Oct,,,,,,,,,,
-Sunday 18th Oct,,,,,,,,,,
-Sunday 18th Oct,,,,,,,,,,
-Monday 19th Oct,,,,,,,,,,
-Monday 19th Oct,,,,,,,,,,
-Monday 19th Oct,,,,,,,,,,
-Monday 19th Oct,,,,,,,,,,
-Monday 19th Oct,,,,,,,,,,
-Tuesday 20th Oct,,,,,,,,,,
-Tuesday 20th Oct,,,,,,,,,,
-Tuesday 20th Oct,,,,,,,,,,
-Tuesday 20th Oct,,,,,,,,,,
-Tuesday 20th Oct,,,,,,,,,,
-Tuesday 20th Oct,,,,,,,,,,
-Tuesday 20th Oct,,,,,,,,,,
-Tuesday 20th Oct,,,,,,,,,,
-Tuesday 20th Oct,,,,,,,,,,
-Tuesday 20th Oct,,,,,,,,,,
-Wednesday 21st Oct,,,,,,,,,,
-Wednesday 21st Oct,,,,,,,,,,
-Wednesday 21st Oct,,,,,,,,,,
-Wednesday 21st Oct,,,,,,,,,,
-Wednesday 21st Oct,,,,,,,,,,
-Wednesday 21st Oct,,,,,,,,,,
-Wednesday 21st Oct,,,,,,,,,,
-Wednesday 21st Oct,,,,,,,,,,
-Wednesday 21st Oct,,,,,,,,,,
-Thursday 22nd Oct,,,,,,,,,,
-Thursday 22nd Oct,,,,,,,,,,
-Thursday 22nd Oct,,,,,,,,,,
-Thursday 22nd Oct,,,,,,,,,,
-Thursday 22nd Oct,,,,,,,,,,
-Thursday 22nd Oct,,,,,,,,,,
-Thursday 22nd Oct,,,,,,,,,,
-Friday 23rd Oct,,,,,,,,,,
-Friday 23rd Oct,,,,,,,,,,
-Friday 23rd Oct,,,,,,,,,,
-Friday 23rd Oct,,,,,,,,,,
-Friday 23rd Oct,,,,,,,,,,
-Friday 23rd Oct,,,,,,,,,,
-Friday 23rd Oct,,,,,,,,,,
-Saturday 24th Oct,,Evening,,,,,,,,
+Saturday 17th Oct,,Morning,,,,,,,,
+Saturday 17th Oct,,Morning,,,,,,,,
+Saturday 17th Oct,,Afternoon,,,,,,,,
+Saturday 17th Oct,,Afternoon,,,,,,,,
+Saturday 17th Oct,,Afternoon,,,,,,,,
+Saturday 17th Oct,,Evening,,,,,,,,
+Sunday 18th Oct,,Afternoon,,,,,,,,
+Sunday 18th Oct,,Afternoon,,,,,,,,
+Sunday 18th Oct,,Afternoon,,,,,,,,
+Sunday 18th Oct,,Evening,,,,,,,,
+Sunday 18th Oct,,Evening,,,,,,,,
+Sunday 18th Oct,,Evening,,,,,,,,
+Monday 19th Oct,,Morning,,,,,,,,
+Monday 19th Oct,,Morning,,,,,,,,
+Monday 19th Oct,,Morning,,,,,,,,
+Monday 19th Oct,,Afternoon,,,,,,,,
+Monday 19th Oct,,Afternoon,,,,,,,,
+Monday 19th Oct,,Afternoon,,,,,,,,
+Monday 19th Oct,,Evening,,,,,,,,
+Tuesday 20th Oct,,Morning,,,,,,,,
+Tuesday 20th Oct,,Morning,,,,,,,,
+Tuesday 20th Oct,,Morning,,,,,,,,
+Tuesday 20th Oct,,Afternoon,,,,,,,,
+Tuesday 20th Oct,,Afternoon,,,,,,,,
+Tuesday 20th Oct,,Evening,,,,,,,,
+Tuesday 20th Oct,,Evening,,,,,,,,
+Tuesday 20th Oct,,Evening,,,,,,,,
+Wednesday 21st Oct,,Morning,,,,,,,,
+Wednesday 21st Oct,,Morning,,,,,,,,
+Wednesday 21st Oct,,Morning,,,,,,,,
+Wednesday 21st Oct,,Afternoon,,,,,,,,
+Wednesday 21st Oct,,Evening,,,,,,,,
+Wednesday 21st Oct,,Evening,,,,,,,,
+Wednesday 21st Oct,,Late night,,,,,,,,
+Wednesday 21st Oct,,Late night,,,,,,,,
+Thursday 22nd Oct,,Morning,,,,,,,,
+Thursday 22nd Oct,,Morning,,,,,,,,
+Thursday 22nd Oct,,Afternoon,,,,,,,,
+Thursday 22nd Oct,,Evening,,,,,,,,
+Thursday 22nd Oct,,Evening,,,,,,,,
+Thursday 22nd Oct,,Evening,,,,,,,,
+Thursday 22nd Oct,,Late night,,,,,,,,
+Friday 23rd Oct,,Morning,,,,,,,,
+Friday 23rd Oct,,Morning,,,,,,,,
+Friday 23rd Oct,,Morning,,,,,,,,
+Friday 23rd Oct,,Evening,,,,,,,,
+Friday 23rd Oct,,Evening,,,,,,,,
+Friday 23rd Oct,,Late night,,,,,,,,
+Friday 23rd Oct,,Late night,,,,,,,,
+Saturday 24th Oct,,Afternoon,,,,,,,,
+Saturday 24th Oct,,Afternoon,,,,,,,,
+Saturday 24th Oct,,Afternoon,,,,,,,,
+Saturday 24th Oct,,Afternoon,,,,,,,,
 Saturday 24th Oct,,Evening,,,,,,,,
 Saturday 24th Oct,,Late night,,,,,,,,
 Saturday 24th Oct,,Late night,,,,,,,,
-Saturday 24th Oct,,Afternoon,,,,,,,,
-Saturday 24th Oct,,Afternoon,,,,,,,,
-Saturday 24th Oct,,Afternoon,,,,,,,,
 Sunday 25th Oct,,Evening,,,,,,,,
 Sunday 25th Oct,,Evening,,,,,,,,
 Sunday 25th Oct,,Evening,,,,,,,,
